@@ -1,0 +1,10 @@
+D:\Coding\Projetos C#\IMC_Calculator\bin\Debug\IMC_Calculator.exe.config
+D:\Coding\Projetos C#\IMC_Calculator\bin\Debug\IMC_Calculator.exe
+D:\Coding\Projetos C#\IMC_Calculator\bin\Debug\IMC_Calculator.pdb
+D:\Coding\Projetos C#\IMC_Calculator\obj\Debug\IMC_Calculator.csprojAssemblyReference.cache
+D:\Coding\Projetos C#\IMC_Calculator\obj\Debug\IMC_Calculator.formIMCCalc.resources
+D:\Coding\Projetos C#\IMC_Calculator\obj\Debug\IMC_Calculator.Properties.Resources.resources
+D:\Coding\Projetos C#\IMC_Calculator\obj\Debug\IMC_Calculator.csproj.GenerateResource.cache
+D:\Coding\Projetos C#\IMC_Calculator\obj\Debug\IMC_Calculator.csproj.CoreCompileInputs.cache
+D:\Coding\Projetos C#\IMC_Calculator\obj\Debug\IMC_Calculator.exe
+D:\Coding\Projetos C#\IMC_Calculator\obj\Debug\IMC_Calculator.pdb
